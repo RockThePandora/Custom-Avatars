@@ -1,1 +1,3 @@
-# qmod-template-bare
+# #{name}
+
+#{description}
