@@ -1,9 +1,9 @@
 {
   "_QPVersion": "1.0.0",
-  "name": "${mod_name}",
-  "id": "${mod_id}",
-  "author": "---",
-  "version": "${version}",
+  "name": "CustomAvatars",
+  "id": "customavatars",
+  "author": "DoA Voices",
+  "version": "1.27.0_3631150051",
   "description": "${mod_id}, version ${version}!",
   "dependencies": [],
   "modFiles": [],
