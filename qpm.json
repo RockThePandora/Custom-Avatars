@@ -4,7 +4,7 @@
   "info": {
     "name": "#{name}",
     "id": "#{id}",
-    "version": "0.1.0",
+    "version": "1.0.0-beta1",
     "url": null,
     "additionalData": {}
   },
@@ -30,6 +30,52 @@
       "id": "beatsaber-hook",
       "versionRange": "^3.14.0",
       "additionalData": {}
-    }
-  ]
+      },
+      {
+         "id": "codegen",
+         "versionRange": "^0.32.0",
+         "additionalData": {}
+      },
+      {
+         "id": "questui",
+         "versionRange": "^0.17.10",
+         "additionalData": {}
+      },
+      {
+         "id": "custom-types",
+         "versionRange": "^0.15.22",
+         "additionalData": {}
+      },
+      {
+         "id": "config-utils",
+         "versionRange": "^1.0.2",
+         "additionalData": {}
+      },
+      {
+         "id": "libcurl",
+         "versionRange": "^7.78.0",
+         "additionalData": {}
+      },
+      {
+         "id": "gif-lib",
+         "versionRange": "^5.2.2",
+         "additionalData": {}
+      },
+      {
+         "id": "lapiz",
+         "versionRange": "^0.1.9",
+         "additionalData": {}
+      },
+      {
+         "id": "bsml",
+         "versionRange": "^0.2.10",
+         "additionalData": {}
+      },
+      {
+         "id": "tinyxml2",
+         "versionRange": "^9.0.5",
+         "additionalData": {}
+      }
+   ],
+   "additionalData": {}
 }
