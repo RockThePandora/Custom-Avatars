@@ -1,4 +1,6 @@
 #include "main.hpp"
+#niclude "Zenject/Internal/ZenjectHelper.cs"
+#include "Avatar/FirstPersonVisibility.cs"
 
 static ModInfo modInfo;
 
