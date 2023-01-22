@@ -27,7 +27,6 @@ if ($psVersion -ge 6) {
     Remove-Item $schema
 
     Write-Output "Validating mod.json..."
-    if (-not ($modJsonRaw | Test-Json -Schema $modSchemaRaw)) {
         Write-Output "Error: mod.json is not valid"
         exit 1
     }
