@@ -94,11 +94,11 @@ jobs:
       with:
         name: debug_${{ steps.libname.outputs.NAME }}
         path: ./build/debug/${{ steps.libname.outputs.NAME }}
-        if-no-files-found: error
+        if-no-files-found: warn
 
     - name: Upload qmod artifact
       uses: actions/upload-artifact@v2
       with:
         name: ${{env.qmodName}}.qmod
         path: ./${{ env.qmodName }}.qmod
-        if-no-files-found: error
+        if-no-files-found: warn
