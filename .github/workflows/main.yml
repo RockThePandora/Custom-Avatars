@@ -2,7 +2,7 @@ name: NDK build
 
 env:
     module_id: customavatars
-    qmodName: CustomAvatars
+    qmodName: customavatars
 
 on:
   workflow_dispatch:
