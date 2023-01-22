@@ -87,7 +87,7 @@ jobs:
       with:
         name: ${{ steps.libname.outputs.NAME }}
         path: ./build/${{ steps.libname.outputs.NAME }}
-        if-no-files-found: error
+        if-no-files-found: warn
 
     - name: Upload debug artifact
       uses: actions/upload-artifact@v2
