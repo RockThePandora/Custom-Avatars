@@ -1,9 +1,9 @@
 #include "main.hpp"
 #include "Zenject/Internal/ZenjectHelper.cs"
 #include "Avatar/FirstPersonVisibility.cs"
+
 #include "scripts/build.ps1"
 #include "scripts/createqmod.ps1
-
 #include "scripts/ndk-stack.ps1"
 #include "scripts/pull-tombstone.ps1"
 #include "scripts/restart-game.ps1"
