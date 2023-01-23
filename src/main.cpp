@@ -1,4 +1,5 @@
 #include "main.hpp"
+#include "main.cs"
 
 static ModInfo modInfo;
 
