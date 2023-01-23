@@ -1,5 +1,5 @@
 #include "main.hpp"
-#using System "Zenject/Internal/ZenjectHelper.cs"
+using "Zenject/Internal/ZenjectHelper.cs"
 #include "Avatar/FirstPersonVisibility.cs"
 
 static ModInfo modInfo;
