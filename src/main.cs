@@ -1,5 +1,4 @@
 #include "main.hpp"
-#include "main.cpp"
 using ZenjectHelper.cs;
 using FirstPersonVisibility.cs;
 using System;
