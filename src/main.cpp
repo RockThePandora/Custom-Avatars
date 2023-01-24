@@ -1,5 +1,6 @@
 #include "main.hpp"
-#include "main.cs"
+#include "Zenject.cpp"
+#include "FirstPerson.cpp"
 
 static ModInfo modInfo;
 
